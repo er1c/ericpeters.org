@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+#subtitle: Stuff
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Eric Peters.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Work
 
-What else do you need?
+Principal Software Engineer with management background. Product Manager at Amazon/Microsoft, CEO/Founder for VC-backed startup. Current interest is in Scala and build tooling. Enjoy writing concise, maintainable, and high-performance code.
 
-### My story
+Technologies: Scala, sbt, Docker, Solr, AWS, Ansible, and the occasional bash script.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+* Top 10 Contributor to Scala.js: https://github.com/scala-js/scala-js/graphs/contributors
+* Member in https://github.com/sbt
+* Collaborator in https://github.com/scalacenter/scala-debug-adapter
+* Collaborator in https://github.com/eed3si9n/jarjar-abrams (Foundation for sbt-assembly)
+* Lots of open-source code co-authored at https://github.com/frugalmechanic
